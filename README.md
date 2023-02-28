@@ -4,3 +4,4 @@
 
 #### Note ‒ DML statements typically provide output data, but it can be challenging to display output from DDL statements as they do not return data. We have attempted to include output snippets of relevant codes (post-creation) to demonstrate the possible outcomes.
  
+![Queries](https://user-images.githubusercontent.com/77773902/221749804-d680f478-7644-4251-8681-41d86df1601d.png)
